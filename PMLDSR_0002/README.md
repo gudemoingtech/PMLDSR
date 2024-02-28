@@ -1,7 +1,8 @@
 
 视频分享地址:
 
-【R语言实战系列分享：PMLDSR 0002】如何查看和使用R语言中的大于2,000个数据集](https://www.youtube.com/watch?v=eXeLrdcTXpc)
+[【R语言实战系列分享：PMLDSR 0002】如何查看和使用R语言中的大于2,000个数据集](https://www.youtube.com/watch?v=eXeLrdcTXpc)
+
 https://www.youtube.com/watch?v=eXeLrdcTXpc
 
 
