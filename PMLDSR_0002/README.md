@@ -11,6 +11,11 @@ https://www.youtube.com/watch?v=eXeLrdcTXpc
 Some packages give methods for retrieving data sets from the web (e.g., vermeulen, frenchdata).
 
 
+2024-03-01
+
+- https://cran.r-project.org/web/packages/intendo/index.html intendo: A Group of Fun Datasets of Various Sizes and Differing Levels of Quality
+
+
 - https://vincentarelbundock.github.io/Rdatasets/articles/data.html __2264__ data sets (access date: 2024-02-27)
 - https://cran.r-project.org/web/packages/flightsbr/index.html
 - https://cran.r-project.org/web/packages/anyflights/index.html
