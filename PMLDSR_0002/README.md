@@ -5,6 +5,9 @@
 
 https://www.youtube.com/watch?v=eXeLrdcTXpc
 
+__2264 data sets; powerful data sets collection__
+- https://vincentarelbundock.github.io/Rdatasets/articles/data.html __2264__ data sets (access date: 2024-02-27)
+
 
 
 
@@ -16,7 +19,7 @@ Some packages give methods for retrieving data sets from the web (e.g., vermeule
 - https://cran.r-project.org/web/packages/intendo/index.html intendo: A Group of Fun Datasets of Various Sizes and Differing Levels of Quality
 
 
-- https://vincentarelbundock.github.io/Rdatasets/articles/data.html __2264__ data sets (access date: 2024-02-27)
+
 - https://cran.r-project.org/web/packages/flightsbr/index.html
 - https://cran.r-project.org/web/packages/anyflights/index.html
 - https://cran.r-project.org/web/packages/nycflights13/index.html
