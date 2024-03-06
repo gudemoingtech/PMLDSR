@@ -12,11 +12,14 @@ __2264 data sets; powerful data sets collection__
 Some packages give methods for retrieving data sets from the web (e.g., vermeulen, frenchdata).
 
 
+
+2024-03-06
+
+- https://cran.r-project.org/web/packages/DiscreteDatasets/index.html Example Data Sets for Use with Discrete Statistical Tests
+
 2024-03-01
 
 - https://cran.r-project.org/web/packages/intendo/index.html intendo: A Group of Fun Datasets of Various Sizes and Differing Levels of Quality
-
-
 
 - https://cran.r-project.org/web/packages/flightsbr/index.html
 - https://cran.r-project.org/web/packages/anyflights/index.html
