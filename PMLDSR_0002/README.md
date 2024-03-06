@@ -9,17 +9,8 @@ __2264 data sets; powerful data sets collection__
 - https://vincentarelbundock.github.io/Rdatasets/articles/data.html __2264__ data sets (access date: 2024-02-27)
 
 
-
-
 Some packages give methods for retrieving data sets from the web (e.g., vermeulen, frenchdata).
 
-
-2024-03-06
-
-copulaData: Data Sets for Copula Modeling
-Data sets used for copula modeling in addition to those in the R package 'copula'. These include a random subsample from the US National Education Longitudinal Study (NELS) of 1988 and nursing home data from Wisconsin.
-
-- https://cran.r-project.org/web/packages/copulaData/index.html 
 
 2024-03-01
 
